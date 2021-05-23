@@ -1,0 +1,11 @@
+D:\xml\TruongHoc_Form\bin\Debug\truonghoc.xml
+D:\xml\TruongHoc_Form\bin\Debug\TruongHoc_Form.exe.config
+D:\xml\TruongHoc_Form\bin\Debug\TruongHoc_Form.exe
+D:\xml\TruongHoc_Form\bin\Debug\TruongHoc_Form.pdb
+D:\xml\TruongHoc_Form\obj\Debug\TruongHoc_Form.csprojAssemblyReference.cache
+D:\xml\TruongHoc_Form\obj\Debug\TruongHoc_Form.Form1.resources
+D:\xml\TruongHoc_Form\obj\Debug\TruongHoc_Form.Properties.Resources.resources
+D:\xml\TruongHoc_Form\obj\Debug\TruongHoc_Form.csproj.GenerateResource.cache
+D:\xml\TruongHoc_Form\obj\Debug\TruongHoc_Form.csproj.CoreCompileInputs.cache
+D:\xml\TruongHoc_Form\obj\Debug\TruongHoc_Form.exe
+D:\xml\TruongHoc_Form\obj\Debug\TruongHoc_Form.pdb

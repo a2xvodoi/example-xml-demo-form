@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<truonghoc>
+  <lophoc malop="01">
+    <tenlop>Kỹ thuật phần mềm</tenlop>
+    <namhoc>2020-2021</namhoc>
+    <sinhvien>
+      <masv>sv01</masv>
+      <hoten>Mai Huong</hoten>
+      <gioitinh>Nu</gioitinh>
+      <tuoi>21</tuoi>
+      <diachi>Ha noi</diachi>
+      <hocphi>7000</hocphi>
+    </sinhvien>
+    <sinhvien>
+      <masv>sv02</masv>
+      <hoten>Nam</hoten>
+      <gioitinh>Nam</gioitinh>
+      <tuoi>21</tuoi>
+      <diachi>Ha noi</diachi>
+      <hocphi>7000</hocphi>
+    </sinhvien>
+  </lophoc>
+  <lophoc malop="02">
+    <tenlop>XML</tenlop>
+    <namhoc>2020-2021</namhoc>
+    <sinhvien>
+      <masv>sv01</masv>
+      <hoten>Mai Huong</hoten>
+      <gioitinh>Nu</gioitinh>
+      <tuoi>21</tuoi>
+      <diachi>Ha noi</diachi>
+      <hocphi>10000</hocphi>
+    </sinhvien>
+    <sinhvien>
+      <masv>sv03</masv>
+      <hoten>Lan</hoten>
+      <gioitinh>Nu</gioitinh>
+      <tuoi>21</tuoi>
+      <diachi>Quang Ninh</diachi>
+      <hocphi>10000</hocphi>
+    </sinhvien>
+  </lophoc>
+</truonghoc>
